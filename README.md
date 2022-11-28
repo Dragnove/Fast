@@ -24,3 +24,6 @@ python setup.py
 
 <p align="left">
 <img src='https://github.com/Dragnove/Fast/blob/main/Screenshot_20221128_134458.jpg' style="height:600px;width:300px;" >
+
+  
+  ## Paid Tool
